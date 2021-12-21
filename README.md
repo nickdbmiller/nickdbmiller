@@ -7,4 +7,6 @@
 ## Hi, my name is Nick!
 > I am a builder of systems who seeks to truly understand all that I do, and all that I create. Leveraging my background in Environmental Science and systems level thinking I am able to see the sum of complex interactions, and how my work fits into that complexity. I pursue information with tenacity when dealing with tough challenges to acquire deep knowledge on the obstacle. This is why I have creative ways of seeing answers to problems; I see them from every angle. I bring true motivation and a clear moral compass to everything that I do and every organization I am a part of.
 
-[![Nick Miller's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickdbmiller)](https://github.com/anuraghazra/github-readme-stats)
+[![Nick Miller's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickdbmiller&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Nick Miller's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nickdbmiller&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)

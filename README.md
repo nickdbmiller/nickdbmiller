@@ -10,3 +10,41 @@
 [![Nick Miller's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickdbmiller&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Nick Miller's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nickdbmiller&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Here's some code I wrote recently!
+### [Web of Rogues Game](https://nickdbmiller.github.io/Web-of-Rogues-Game/)
+```
+let currentPlayerPos = null;
+let currentStairPos = null;
+let floorTiles = [];
+
+function listFloorTiles () {
+    for (let r = 1; r <= (dungeonHeight*dungeonWidth); r++) {
+        let thisTile = document.getElementById(`-${r}`);
+        if (thisTile.className == `floor`) {
+            floorTiles.push(`-${r}`);
+        };
+    };
+    return floorTiles;
+};
+```
+
+>...Then the stairs are put on a random floor tile (using a RNG function declared elsewhere in the script). The tile will always be different than the floor tile the PC is put on to prevent overwriting.
+
+```
+function renderStairs () {
+    let position = `${floorTiles[RNG(0, (floorTiles.length-1))]}`;
+    let tile = document.getElementById(`${position}`);
+    currentStairPos = position;
+    if (currentPlayerPos == currentStairPos) {
+        while (currentPlayerPos == currentStairPos) {
+            position = `${floorTiles[RNG(0, (floorTiles.length-1))]}`;
+            tile = document.getElementById(`${position}`);
+            currentStairPos = position;
+        }
+        tile.innerText = `>`;
+    } else {
+        tile.innerText = `>`;
+    };
+};
+```

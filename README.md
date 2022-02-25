@@ -1,6 +1,6 @@
-![Crisp mountain lake header image](./assets/images/Freshheader.jpeg)
+![Lime green geometric design. Get in touch to learn more!](./assets/images/Github.png)
 
-## Hi, I'm Nick!
+## Welcome!
 > As a full stack developer I am driven to simplify intricate problems. My background in systems level thinking enables me to see the sum of complex interactions. Solving tough challenges inspires me to pursue information with tenacity and confidence, and intuit creative ways to overcome obstacles.
 
 ## Currently open to work. Let's chat!

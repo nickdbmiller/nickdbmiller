@@ -55,12 +55,12 @@
 [![Windows badge](	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [![Mac OS badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 
-## Some stats about me:
-[![Nick Miller's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickdbmiller&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Nick Miller's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nickdbmiller&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-# Check me out on [![Codewars badge](	https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/nickdbmiller)
+> ## Some stats about me:
+> [![Nick Miller's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickdbmiller&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+>
+> [![Nick Miller's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nickdbmiller&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+>
+> # Check me out on [![Codewars badge](	https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/nickdbmiller)
 
 ## Here's some code I wrote recently!
 ### [Web of Rogues Game](https://nickdbmiller.github.io/Web-of-Rogues-Game/)
@@ -109,6 +109,8 @@ function renderStairs () {
 [![Gmail contact badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickbarrettmiller@gmail.com)
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndbmiller/)
 
-###### [Badges by Alexandre Sanlim.](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+- ###### [Badges by Alexandre Sanlim.](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
-###### [Visitor count badge project on glitch.](https://visitor-badge.glitch.me/)
+- ###### [Visitor count badge project on glitch.](https://visitor-badge.glitch.me/)
+
+- ###### [Banner created with Figma.](https://www.figma.com/)

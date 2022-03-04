@@ -3,11 +3,12 @@
 ## Welcome!
 > As a full stack developer I am driven to simplify intricate problems. My background in systems level thinking enables me to see the sum of complex interactions. Solving tough challenges inspires me to pursue information with tenacity and confidence, and intuit creative ways to overcome obstacles.
 
-## Currently open to work. Let's chat!
+# Currently open to work. Let's chat!
 [![Gmail contact badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickbarrettmiller@gmail.com)
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndbmiller/)
 
-## Click any badge to learn more about my stack!
+## My skills include (but are not limited to):
+##### Click any badge to learn more!
 
 ### Languages I use:
 [![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)

@@ -1,11 +1,12 @@
 [![Lime green geometric design. Get in touch to learn more!](./assets/images/Github.png)](mailto:nickbarrettmiller@gmail.com)
 
-# Currently open to work. Click a badge to get in touch!
-[![Gmail contact badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickbarrettmiller@gmail.com)
-[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndbmiller/)
+<!-- # Currently open to work. Click a badge to get in touch!
+[![Gmail contact badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickbarrettmiller@gmail.com) -->
 
 ## Welcome!
-> As a web developer I am driven to simplify intricate problems. My background in systems level thinking enables me to see the sum of complex interactions. Solving tough challenges inspires me to pursue information with tenacity and confidence, and intuit creative ways to overcome obstacles.
+> As a Software Engineer I am driven to simplify intricate problems. My background in systems level thinking enables me to see the sum of complex interactions. Solving tough challenges inspires me to pursue information with tenacity and confidence, and intuit creative ways to overcome obstacles.
+
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndbmiller/)
 
 ## Some stats about me:
 [![Nick Miller's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickdbmiller&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) [![Nick Miller's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nickdbmiller&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -42,7 +43,7 @@
 [![Windows badge](	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [![Mac OS badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 
-## Here's some code I wrote recently!
+## Here's some code I wrote!
 ### [Web of Rogues](https://web-of-rogues.netlify.app/)
 
 >These two functions are how objects are randomly rendered in Web of Rogues each time the dungeon is generated. First a list of floor tiles is generated...

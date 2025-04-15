@@ -39,7 +39,7 @@
 [![Windows badge](	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [![Mac OS badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 
-##### Click any badge to learn more about my stack.
+##### Click any badge to learn more.
 
 ## Here's some code from my first project ever. It's rough, but I'm proud of it:
 ## [Web of Rogues](https://web-of-rogues.netlify.app/)

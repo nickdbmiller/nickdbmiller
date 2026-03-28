@@ -1,11 +1,5 @@
-# Thanks for stopping by, I hope you reach out to me about projects, problems, and coding!
-### Contact
-[![Gmail contact badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickbarrettmiller@gmail.com)
-
-[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/ndbmiller/)
-
 ## A bit about me:
-> As a software engineer, I excel at simplifying intricate problems and optimizing complex interactions. With a strong background in systems-level analysis, I leverage my experience in Ruby on Rails, SQL, and Postgres to deliver scalable backend solutions. My track record includes successfully solving tough challenges and driving system performance enhancements. I am passionate about pursuing information tenaciously and employing creative problem-solving to overcome obstacles and drive value.
+> As a software engineer, I excel at simplifying intricate problems and optimizing complex interactions. With a strong background in systems-level analysis, I leverage my experience in Ruby, SQL, and Postgres to deliver scalable backend solutions. My track record includes successfully solving tough challenges and driving system performance enhancements. I am passionate about pursuing information tenaciously and employing creative problem-solving to overcome obstacles and drive value.
 
 ### Languages:
 [![Ruby badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
@@ -30,7 +24,6 @@
 [![Swagger badge](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)](https://swagger.io/)
 [![Miro badge](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)](https://miro.com/)
 [![Notion badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
-[![Trello badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
 [![Slack badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/help/articles/115004071768-What-is-Slack)
 
 ### Cloud:

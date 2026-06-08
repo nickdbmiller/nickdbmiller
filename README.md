@@ -3,6 +3,7 @@
 
 ### Languages:
 [![Ruby badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
+[![Shell Scripting badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=85EA2D)](https://en.wikipedia.org/wiki/Shell_script)
 
 ### Frameworks:
 [![Ruby on Rails badge](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
@@ -21,10 +22,15 @@
 [![Postman badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
 [![Sentry badge](https://img.shields.io/badge/Sentry%20-%20%23362D59?style=for-the-badge&logo=sentry&logoColor=%23f1814f)](https://sentry.io/welcome/)
 
+[![VSCode badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://vscodium.com/)
+
 [![Swagger badge](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)](https://swagger.io/)
 [![Miro badge](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)](https://miro.com/)
 [![Notion badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+
 [![Slack badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/help/articles/115004071768-What-is-Slack)
+[![Teams badge](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Teams)
+[![Zoom badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://en.wikipedia.org/wiki/Zoom_(software))
 
 ### Cloud:
 [![Heroku badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/about)
